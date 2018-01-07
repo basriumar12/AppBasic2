@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mn_home"
+        android:title="Home"></item>
+    <item android:title="Youtube"
+        android:id="@+id/mn_youtube"></item>
+    <item android:title="Rs"
+        android:id="@+id/mn_rs"></item>
+    <item android:title="About"
+        android:id="@+id/mn_about"></item>
+    <item android:title="Exit"
+        android:id="@+id/mn_exit"></item>
+
+
+</menu>

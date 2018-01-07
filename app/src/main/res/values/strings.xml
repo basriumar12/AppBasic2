@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hari 3</string>
+    <string name="url">http://google.com</string>
+    <string-array name="menu_home">
+        <item>Rs Arifin</item>
+        <item>Rs Eka  </item>
+        <item>YouTube  </item>
+        <item>My Browser  </item>
+
+    </string-array>
+</resources>
